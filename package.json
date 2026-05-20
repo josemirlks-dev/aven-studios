@@ -1,0 +1,12 @@
+{
+  "name": "aven-studio",
+  "version": "1.0.0",
+  "description": "Editor Lua para Roblox",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^38.0.0"
+  }
+}
